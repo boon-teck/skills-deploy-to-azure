@@ -6,8 +6,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: bt-azure-ttt
-  AZURE_WEBAPP_NAME: bt-ttt-app
+  DOCKER_IMAGE_NAME: btt-azure-ttt
+  AZURE_WEBAPP_NAME: btt-ttt-app
 
 jobs:
   build:
